@@ -1,6 +1,6 @@
 [![NPM](https://img.shields.io/npm/v/eosjs-api.svg)](https://www.npmjs.org/package/eosjs-api)
 
-# Amontes API
+# AmontesJS API
 
 Application programming interface to EOS blockchain nodes.  This is for
 read-only API calls.  If you need to sign transactions use
